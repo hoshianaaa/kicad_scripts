@@ -1,3 +1,4 @@
+cd gerber
 mv *.gtl a.GTL
 mv *.gbl a.GBL
 mv *.gbo a.GBO
